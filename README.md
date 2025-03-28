@@ -14,8 +14,7 @@ A **classic Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. Play a
 ✅ Reset option to restart the game  
 
 ## 📸 Screenshot  
-![Tic Tac Toe Screenshot](https://i.ibb.co/BHf4tC81/image.png)
-) 
+![Tic Tac Toe Screenshot](https://i.ibb.co/BHf4tC81/image.png) 
 
 ## 🔧 How to Run the Project  
 1. Clone the repository:  
