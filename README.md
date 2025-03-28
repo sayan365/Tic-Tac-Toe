@@ -25,14 +25,7 @@ A **classic Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. Play a
 Open the `index.html` file in your browser.
 
 ## 📌 Live Demo  
-🔗 [Play Tic Tac Toe](your-live-demo-link)  
-*(Replace with your deployed game link if available!)*  
+🔗 [Play Tic Tac Toe](https://tic-tac-toe-3000.netlify.app/)   
 
 ## 📜 License  
 This project is **open-source** and available under the **MIT License**. Feel free to modify and distribute it.
-
-### Instructions:  
-- Replace `your-screenshot-link.png` with an actual screenshot link.  
-- If deployed, replace `your-live-demo-link` with the actual URL.  
-
-Now, **paste this into your `README.md` file** in your repo! 🚀 Let me know if you need any modifications. 😊
